@@ -63,7 +63,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.40</version>
+            <version>8.0.11</version>
         </dependency>
 
         <dependency>
@@ -103,14 +103,14 @@
         </dependency>
 
     </dependencies>
-    <repositories>
-        <repository>
-            <id>alfresco</id>
-            <name>Activiti Releases</name>
-            <url>https://artifacts.alfresco.com/nexus/content/repositories/activiti-releases/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-        </repository>
-    </repositories>
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            <id>alfresco</id>-->
+<!--            <name>Activiti Releases</name>-->
+<!--            <url>https://artifacts.alfresco.com/nexus/content/repositories/activiti-releases/</url>-->
+<!--            <releases>-->
+<!--                <enabled>true</enabled>-->
+<!--            </releases>-->
+<!--        </repository>-->
+<!--    </repositories>-->
 </project>
